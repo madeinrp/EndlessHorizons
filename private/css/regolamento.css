@@ -173,7 +173,7 @@ section{
     border: var(--main-color);
     border-style: solid;
     border-color: #fff;
-    border-width: 2px;
+    border-width: 1px;
     height: auto;
     box-shadow: #000;
     font-size: 3rem;
